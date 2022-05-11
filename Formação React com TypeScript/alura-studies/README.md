@@ -7,7 +7,7 @@ lista de afazeres com contagem regressiva, colocando a atividade como concluida 
 
 1 - Faça o download do zip ou clone o projeto \
 2 - No terminal execute o comando 'npm install' \
-3 - Ainda no terminal, execute o comando 'npm start' \
+3 - Ainda no terminal, execute o comando 'npm start' 
 
 ## Temas abordados
 
