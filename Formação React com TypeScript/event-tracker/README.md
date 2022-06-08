@@ -1,6 +1,6 @@
 # Event Tracker
 
-O que é? \
+## O que é? \
 Uma agenda na qual é possivel adicionar, remover, editar, filtrar eventos e marcar como concluído.
 
 ## Para rodar o projeto:
