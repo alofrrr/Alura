@@ -26,6 +26,6 @@ Para rodar o backend é necessario ter o docker instalado na maquina e executar 
 Comunicação entre uma aplicação React e uma API REST \
 Axios para realizar requisições HTTP \
 Hooks para buscar dados em uma API \
-Integração do frontend ao backend \
+Integração do frontend ao backend
 
 
